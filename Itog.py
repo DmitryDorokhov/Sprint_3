@@ -132,3 +132,4 @@ boat.refuel(80) # Ошибка: превышение вместимости то
 car.calculate_fuel_consumption(150) # Расход на 150 км: 12.00 л.
 airplane.calculate_fuel_consumption(3) # Расход за 3 ч: 7500.00 л.
 boat.calculate_fuel_consumption(2) # Расход за 2 ч: 60.00 л .
+
