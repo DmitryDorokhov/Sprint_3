@@ -5,3 +5,4 @@ def say_to_all(func, sequence):
         func(item)
 
 say_to_all(lambda a: print(f'Здравствуй, {a}!' if a[0] == 'С' else f'Привет, {a}!') ,people)
+
